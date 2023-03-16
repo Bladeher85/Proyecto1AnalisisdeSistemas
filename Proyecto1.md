@@ -233,12 +233,12 @@ class EmpresaLavado {
 @enduml
 ```
 
-Cliente *-- Pedido
-Pedido *-- Prenda
-EmpresaLavado o-- Contador
-EmpresaLavado o-- EncargadoAtencionCliente
-EmpresaLavado o-- EncargadoLavado
-EmpresaLavado o-- Pedido
+>Cliente *-- Pedido
+>Pedido *-- Prenda
+>EmpresaLavado o-- Contador
+>EmpresaLavado o-- EncargadoAtencionCliente
+>EmpresaLavado o-- EncargadoLavado
+>EmpresaLavado o-- Pedido
 
 >El diagrama UML muestra las clases involucradas en el proceso de lavado de prendas, sus atributos y métodos.
 *	La clase Cliente representa a cada uno de los clientes de la lavandería. Cada cliente tiene un número de cliente, nombre, apellido, dirección y número de teléfono.
