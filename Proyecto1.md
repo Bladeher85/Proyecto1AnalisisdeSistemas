@@ -1,4 +1,4 @@
->UNIVERSIDAD MARIANO GALVEZ DE GUATEMALA               ![Proceso](Logo.png)
+>UNIVERSIDAD MARIANO GALVEZ DE GUATEMALA               <center>![Logo](Logo.png)<\center>
 
 >FACULTAD DE INGENIERIA EN SISTEMAS
 
