@@ -135,7 +135,7 @@ Link de diseño: https://balsamiq.cloud/s362f4z/p9gb64a
 ![Prototipado](Prototipado.jpg)
 
 ## Etapas del proyecto
-![Etapa](Etapas.jpg)
+![Etapa](Etapas2.jpg)
 
 >Para aplicar la metodología Scrum en este escenario, vamos a seguir el siguiente proceso:
 Creamos el Product Backlog:
