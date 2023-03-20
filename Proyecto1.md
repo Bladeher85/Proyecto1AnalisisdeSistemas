@@ -45,6 +45,19 @@
 >El encargado de lavado procede a realizar el lavado de las prendas y una vez listo, las ubica para su retiro. El personal es contrato por el contador de la lavandería. Cuando el cliente llega a retirar las prendas, se verifica que el pedido esté listo, se le emite un ticket y se le cobra el servicio. El ticket se emite según reglamentación vigente de la SAT. Se acepta únicamente pago de contado.
 
 >El cliente tiene 90 días a partir de la fecha de entrega pactada para retirar las prendas, pasado ese plazo la empresa puede disponer de las mismas. En forma semanal se realiza la compra de insumos y productos para poder realizar el lavado de las prendas. Mensualmente se genera un reporte con los tipos de servicios de lavado de prendas más solicitados.
+>
+>Requisitos
+>Requisitos
+*	Definir sistema para lavandería
+*	Solicitud de datos a clientes
+*	Asignación de registro por cliente
+*	Selección de tipo de servicio
+*	Generar Formulario de solicitud de servicio original para cliente y copia para el establecimiento
+*	Se genera número de pedido para cliente
+*	Se le mostrara precio total por servicio
+*	Mostrar tipo de pago (efectivo / tarjeta)
+*	Indicar plazo máximo para recoger prenda de 90 días
+
 
 ## Análisis
 >Propuesta Identificación de procesos y tipos (casos limitados: solo algunos procesos como ejemplo)
