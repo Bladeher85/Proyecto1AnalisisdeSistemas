@@ -46,7 +46,7 @@
 
 >El cliente tiene 90 días a partir de la fecha de entrega pactada para retirar las prendas, pasado ese plazo la empresa puede disponer de las mismas. En forma semanal se realiza la compra de insumos y productos para poder realizar el lavado de las prendas. Mensualmente se genera un reporte con los tipos de servicios de lavado de prendas más solicitados.
 >
->Requisitos
+
 >Requisitos
 *	Definir sistema para lavandería
 *	Solicitud de datos a clientes
